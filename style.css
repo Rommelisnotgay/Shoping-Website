@@ -1813,7 +1813,12 @@ form.search button:hover {
         height: 40px;
         font-size: 10px;
     }
-    
+    .products .discount span {
+        
+        top:-2px;
+        right: 5px;
+        transform: translateY(50%) translateX(50%);
+    }
     .products .hoverable li a {
         width: 24px;
         height: 24px;
